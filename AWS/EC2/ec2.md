@@ -34,5 +34,8 @@ Dessa maneira não é utilizada nenhuma chave e também não é necessário deix
 ## User data
 User data é o lugar onde adicionamos scripts para ser rodados no momento em que a maquina esta sendo criada.
 
+## Como ter um ip dedicado?
+Para adicionar um IP dedicado a sua maquina é necessário utilizar o service Elastic IPs e isso pode gerar um custo adicional
+
 # Fontes
 - [Tipos de instância do Amazon EC2[1]](https://aws.amazon.com/pt/ec2/instance-types/?trkCampaign=acq_paid_search_brand&sc_channel=PS&sc_campaign=acquisition_BR&sc_publisher=Google&sc_category=Cloud%20Computing&sc_country=BR&sc_geo=LATAM&sc_outcome=acq&sc_detail=ec2%20instance%20types&sc_content={ad%20group}&sc_matchtype=e&sc_segment=490489530680&sc_medium=ACQ-P|PS-GO|Brand|Desktop|SU|Cloud%20Computing|EC2|BR|EN|Sitelink&s_kwcid=AL!4422!3!490489530680!e!!g!!ec2%20instance%20types&ef_id=CjwKCAjw3_KIBhA2EiwAaAAliuzLDKNZl_rEDI6lld1E790VSjhR79fEz8OSq2X_O60DjrfZL1Di-BoCcMQQAvD_BwE:G:s&s_kwcid=AL!4422!3!490489530680!e!!g!!ec2%20instance%20types)
