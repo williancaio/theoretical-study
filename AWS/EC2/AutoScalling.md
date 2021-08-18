@@ -26,3 +26,7 @@ Você configura um número minimo de instancias e um número maximo de instancia
 
 
 Dessa forma é feito scalling up ou scalling down dos seus recursos. O scalling up é feito até o maximo e o scalling up é feito até o minimo.
+
+## Links
+
+- [Auto Scalling](https://aws.amazon.com/pt/autoscaling/)
