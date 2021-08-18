@@ -12,10 +12,7 @@ Ao invés da empresa manter datacenter com servidores precisando pagar infraestr
 
 ## Vantagens
 
-#### Variable expense
-com a infra tradicional a empresa tem um custo variavel pois precisa se preocupar com a infraestrutura fisica tanto dos equipamentos quanto do local onde o equipamento esta e não é possivle fazer uma estimativa 100% precisa de quanto será gasto a cada mês. Ou seja, com variable expanse você não sabe quanto irá gastar no fim do mês.
-
-#### Capital expense
+#### Capital expense - Saber quanto gastar
 Com a cloud é possivel saber quanto você irá gastar antes mesmo de contratar o serviço. o Provedor de cloud informa o preço fixo e a empresa sabendo quantas horas por mês irá utilizar o serviço torna possivel calcular o preço final mensal
 
 ###### Lista de vantagens 
