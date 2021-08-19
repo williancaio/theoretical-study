@@ -6,6 +6,8 @@ o cloudwatch é um centralizador de logs, além de armazenar os logs é possivel
 
 O cloud watch também é utilizado para criar alarmes de custos
 
+Para controlar os custos é importante configurar uma expiração para os logs.
+
 #### Como os alarmes são enviados?
 
 As notificações são enviadas atraves do SNS
@@ -17,6 +19,9 @@ Além de notificar um alarme também pode gerar uma ação como por exemplo, rei
 
 ### Eventos
 Também é possivel capturar eventos de algum servico aws por exemplo: reiniciar de uma maquina EC2 e enviar uma notificação
+
+## Integrações
+Utilizando uma lambda é possivel integrar alertas do cloud watch com qualquer plataforma.
 
 #### TAGS
 
